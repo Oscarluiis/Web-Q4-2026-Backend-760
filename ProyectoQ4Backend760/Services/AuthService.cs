@@ -5,10 +5,8 @@ using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using ProyectoQ4Backend760.DTOs;
 using ProyectoQ4Backend760.Models;
-using ProyectoQ4Backend760.Services;
 
-namespace TaskFlowBackend.Services;
-
+namespace ProyectoQ4Backend760.Services;
 
 public class AuthService
 {

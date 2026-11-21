@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XR8xD31pDSM=",
+  "dgSpecHash": "P7KODi3vkpw=",
   "success": true,
-  "projectFilePath": "/home/oscarluiis/Documents/Programacion Web/760/ProyectoQ4Backend760/ProyectoQ4Backend760/ProyectoQ4Backend760.csproj",
+  "projectFilePath": "/home/oscarluiis/Documents/Programacion Web/Web-Q4-2026-Backend-760/ProyectoQ4Backend760/ProyectoQ4Backend760.csproj",
   "expectedPackageFiles": [
     "/home/oscarluiis/.nuget/packages/google.api.commonprotos/2.17.0/google.api.commonprotos.2.17.0.nupkg.sha512",
     "/home/oscarluiis/.nuget/packages/google.api.gax/4.13.1/google.api.gax.4.13.1.nupkg.sha512",

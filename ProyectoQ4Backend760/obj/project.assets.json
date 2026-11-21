@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Google.Api.CommonProtos/2.17.0": {
@@ -1304,11 +1304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oscarluiis/Documents/Programacion Web/760/ProyectoQ4Backend760/ProyectoQ4Backend760/ProyectoQ4Backend760.csproj",
+      "projectUniqueName": "/home/oscarluiis/Documents/Programacion Web/Web-Q4-2026-Backend-760/ProyectoQ4Backend760/ProyectoQ4Backend760.csproj",
       "projectName": "ProyectoQ4Backend760",
-      "projectPath": "/home/oscarluiis/Documents/Programacion Web/760/ProyectoQ4Backend760/ProyectoQ4Backend760/ProyectoQ4Backend760.csproj",
+      "projectPath": "/home/oscarluiis/Documents/Programacion Web/Web-Q4-2026-Backend-760/ProyectoQ4Backend760/ProyectoQ4Backend760.csproj",
       "packagesPath": "/home/oscarluiis/.nuget/packages/",
-      "outputPath": "/home/oscarluiis/Documents/Programacion Web/760/ProyectoQ4Backend760/ProyectoQ4Backend760/obj/",
+      "outputPath": "/home/oscarluiis/Documents/Programacion Web/Web-Q4-2026-Backend-760/ProyectoQ4Backend760/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/oscarluiis/.nuget/NuGet/NuGet.Config"
@@ -1321,6 +1321,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -1339,6 +1340,7 @@
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Google.Cloud.Firestore": {
@@ -1377,7 +1379,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/home/oscarluiis/.dotnet/sdk/10.0.404/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
